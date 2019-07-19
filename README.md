@@ -1,8 +1,8 @@
 # ASP .NET
 
 ## 목차
-* [웹 프로그래밍의 이해](#웹 프로그래밍의 이해)
-## 웹 프로그래밍의 이해
+* [web](#web)
+## web
 
 # swift
 swift develop note &amp; code
